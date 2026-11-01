@@ -1,4 +1,17 @@
 [
-  {"id": 1, "title": "Learn Flask", "description": "Create a Flask application and understand routes."},
-  {"id": 2, "title": "Practice Git", "description": "Create branches, merge changes, reset and rebase."}
+  {
+    "id": 1,
+    "title": "Learn Flask",
+    "description": "Build a Flask application"
+  },
+  {
+    "id": 2,
+    "title": "Learn MongoDB",
+    "description": "Connect Flask with MongoDB"
+  },
+  {
+    "id": 3,
+    "title": "Learn Git",
+    "description": "Practice Git branching and merging"
+  }
 ]
