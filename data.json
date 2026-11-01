@@ -1,0 +1,4 @@
+[
+  {"id": 1, "title": "Learn Flask", "description": "Create a Flask application and understand routes."},
+  {"id": 2, "title": "Practice Git", "description": "Create branches, merge changes, reset and rebase."}
+]
