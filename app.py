@@ -14,5 +14,9 @@ def api():
     with DATA_FILE.open("r", encoding="utf-8") as file:
         return jsonify(json.load(file))
 
+@app.route('/todo')
+def todo():
+    return render_template('todo.html')
+
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
